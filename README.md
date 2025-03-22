@@ -6,7 +6,7 @@ Documentação da Resolução dos Exercícios da Aula 3
 
 3) Entendimento da PokeAPI: A PokeAPI (https://pokeapi.co/api/v2/) será utilizada como fonte de dados. Ao acessar a URL base e adicionar /pokemon/[nome-do-pokemon] (por exemplo, https://pokeapi.co/api/v2/pokemon/ditto), a API retorna um objeto JSON contendo diversas informações sobre o Pokemon. Para facilitar a visualização e compreensão dessa estrutura JSON, a utilização de uma extensão como o JSON Viewer é recomendada.
 
-4) Criação do Formulário: Dentro do componente App (em App.js), um formulário HTML ("<form>") será criado. Este formulário deverá conter um elemento de entrada de texto (<input type="text">) onde o usuário poderá digitar o nome do Pokemon e um botão de envio (<button type="submit">) para acionar a busca.
+4) Criação do Formulário: Dentro do componente App (em App.js), um formulário HTML (form) será criado. Este formulário deverá conter um elemento de entrada de texto (<input type="text">) onde o usuário poderá digitar o nome do Pokemon e um botão de envio (<button type="submit">) para acionar a busca.
 
 5) Gerenciamento do Estado do Input: Utilizando o Hook useState, um estado será criado para armazenar o valor digitado no campo de entrada do formulário. Uma função de atualização de estado será associada ao evento onChange do input para capturar em tempo real o texto inserido pelo usuário.
 
