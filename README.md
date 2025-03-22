@@ -42,3 +42,11 @@ Ao concluir a implementação desta atividade, espera-se obter uma aplicação R
 ◦ Armazenar esses dados em um estado do React.
 
 • A aplicação deverá exibir na tela diversas informações sobre o Pokemon pesquisado, como nome, número, peso, habilidades, etc., utilizando os dados armazenados no estado. A interface deverá ser atualizada dinamicamente cada vez que um novo Pokemon for pesquisado e encontrado na PokeAPI.
+
+Resultado:
+
+![Image](https://github.com/user-attachments/assets/0c9ee4b8-2b29-4fc7-92c8-22173fd6d8df)
+
+![Image](https://github.com/user-attachments/assets/fe8b9a6d-58ae-4636-9359-24dd370d11ca)
+
+![Image](https://github.com/user-attachments/assets/3886ff27-4bba-4d3f-9a6e-d7800dc2835c)
