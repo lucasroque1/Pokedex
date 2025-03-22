@@ -25,11 +25,20 @@ Resultado Esperado:
 Ao concluir a implementação desta atividade, espera-se obter uma aplicação React que funcione como uma Pokedex com a seguinte funcionalidade principal:
 
 • Um formulário visível na interface do usuário contendo um campo de texto para a inserção do nome de um Pokemon e um botão de busca.
+
 • A capacidade do usuário de digitar o nome de um Pokemon no campo de texto.
+
 • Ao submeter o formulário (clicando no botão), a aplicação deverá:
+
 ◦ Construir dinamicamente a URL correta para a PokeAPI com o nome do Pokemon fornecido.
+
 ◦ Realizar uma requisição HTTP para essa URL utilizando a função fetch.
+
 ◦ Receber a resposta da API em formato JSON.
+
 ◦ Processar o JSON para extrair os dados do Pokemon.
+
+
 ◦ Armazenar esses dados em um estado do React.
+
 • A aplicação deverá exibir na tela diversas informações sobre o Pokemon pesquisado, como nome, número, peso, habilidades, etc., utilizando os dados armazenados no estado. A interface deverá ser atualizada dinamicamente cada vez que um novo Pokemon for pesquisado e encontrado na PokeAPI.
