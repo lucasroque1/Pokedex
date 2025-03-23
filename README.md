@@ -12,7 +12,7 @@ Por ultimo o comando de rodar o código:
 
 npm start
 
-1) Criação do Projeto React: Inicialmente, um novo projeto React deve ser criado com o nome aula3. Caso os passos para a criação de um projeto React tenham sido esquecidos, a "Aula 1 sobre configuração de ambiente e primeiros passos" pode ser consultada.
+1) Criação do Projeto React: Inicialmente, um novo projeto React deve ser criado com o nome aula3.
 
 2) Limpeza do App.js: O arquivo App.js gerado com o projeto React deve ser limpo, removendo o conteúdo padrão para iniciar a construção da aplicação do zero.
 
@@ -60,7 +60,7 @@ Ao concluir a implementação desta atividade, espera-se obter uma aplicação R
 
 • A aplicação deverá exibir na tela diversas informações sobre o Pokemon pesquisado, como nome, número, peso, habilidades, etc., utilizando os dados armazenados no estado. A interface deverá ser atualizada dinamicamente cada vez que um novo Pokemon for pesquisado e encontrado na PokeAPI.
 
-Resultado:
+Resultados:
 
 ![Image](https://github.com/user-attachments/assets/0c9ee4b8-2b29-4fc7-92c8-22173fd6d8df)
 
