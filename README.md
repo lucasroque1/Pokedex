@@ -25,10 +25,15 @@ npm start
 6) Implementação da Função de Busca: Uma função será criada para ser chamada quando o formulário for submetido. Esta função deverá:
 
 ◦ Prevenir o comportamento padrão de recarregamento da página ao submeter o formulário.
+
 ◦ Construir a URL da requisição HTTP para a PokeAPI, utilizando o nome do Pokemon armazenado no estado do input. A URL será no formato https://pokeapi.co/api/v2/pokemon/[nome-do-pokemon].
+
 ◦ Utilizar a função fetch para realizar uma requisição HTTP do tipo GET para a URL construída.
+
 ◦ Tratar a resposta da API, que estará em formato JSON, utilizando o método .json() para converter a resposta para um objeto JavaScript.
+
 ◦ Atualizar um novo estado (criado também com useState) com os dados do Pokemon recebidos da API, utilizando a função de atualização de estado (setPokemon, por exemplo).
+
 ◦ Implementar tratamento de erros (caso a API retorne um erro, como Pokemon não encontrado) e possivelmente um estado de "carregando" para melhorar a experiência do usuário (estes últimos não explicitamente mencionados no PDF, mas são boas práticas).
 
 7) Exibição das Informações do Pokemon: Com os dados do Pokemon armazenados no estado, a interface do usuário será atualizada para mostrar diversas informações sobre o Pokemon pesquisado. Isso pode ser feito utilizando condicionais para renderizar os dados somente quando eles estiverem disponíveis no estado. Elementos HTML como div, span, etc., podem ser utilizados para exibir informações como nome, número, peso e outras propriedades presentes no objeto JSON retornado pela PokeAPI. A estrutura do JSON, que pode ser explorada com um JSON Viewer, ditará quais dados podem ser exibidos.
