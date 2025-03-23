@@ -12,6 +12,8 @@ Por ultimo o comando de rodar o código:
 
 npm start
 
+Descrição da atividade:
+
 1) Criação do Projeto React: Inicialmente, um novo projeto React deve ser criado com o nome aula3.
 
 2) Limpeza do App.js: O arquivo App.js gerado com o projeto React deve ser limpo, removendo o conteúdo padrão para iniciar a construção da aplicação do zero.
