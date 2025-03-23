@@ -1,5 +1,17 @@
 Documentação da Resolução dos Exercícios da Aula 3
 
+Para comerçamos a testar o código precisamos fazer os seguintes passos
+
+cd (nome do projeto)
+
+Instalar as dependências do projeto:
+
+npm install
+
+Por ultimo o comando de rodar o código:
+
+npm start
+
 1) Criação do Projeto React: Inicialmente, um novo projeto React deve ser criado com o nome aula3. Caso os passos para a criação de um projeto React tenham sido esquecidos, a "Aula 1 sobre configuração de ambiente e primeiros passos" pode ser consultada.
 
 2) Limpeza do App.js: O arquivo App.js gerado com o projeto React deve ser limpo, removendo o conteúdo padrão para iniciar a construção da aplicação do zero.
