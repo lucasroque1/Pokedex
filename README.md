@@ -69,3 +69,7 @@ Resultados:
 ![Image](https://github.com/user-attachments/assets/fe8b9a6d-58ae-4636-9359-24dd370d11ca)
 
 ![Image](https://github.com/user-attachments/assets/3886ff27-4bba-4d3f-9a6e-d7800dc2835c)
+
+Link da aplicação:
+
+https://pokedex-six-jade.vercel.app/
